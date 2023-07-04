@@ -1,0 +1,51 @@
+**Resources**
+-Legitimacy: How much the population views your goverment as legitimate. You want this.
+-Happiness: Population's satisfaction with living conditions. You want this.
+-Dissent: How much the population disagrees with the party line. Too much is dangerous, but having a small amount is quite useful for Elected governments.
+-Industry: Spend this to build stuff. Use it or lose it.
+-Money: Spend this to generate Admin Capacity or upkeep your military. Persists between turns.
+-Admin Capacity: Intermediate currency for policy upkeep. Use it or lose it.
+
+**Faction Creation**
+You get 18 points. You can spend them to increase one of your ideology axes, terraform a planet, or build Civilian Infrastructure.
+
+Ideology: Four axes; Supportiveness, Inclusivity, Egalitarianism, and Progressivism. They can have values of -2, -1, +1, or +2. NOT zero. They start at -2, and cost one point to raise by one place. What Government Types and Policies you can select is dictated by your Ideology.
+
+Government Type: Determines base legitimacy, how you handle Events in the Politics Phase, and Administrative characteristics. Some government types have additional special characteristics, so read carefully.
+
+Policies: Major packages of laws that affect life in your country.
+
+-Production: Determines base Industry and Tax Revenue modifiers.
+
+-Education: Pay-as-you-go to reduce Dissent, improve Happiness, and buff both Industry and Revenue.
+
+-Law Enforcement: Affects Legitimacy and Corruption, can Suppress (usually not remove) Dissent. Also defends against terrorism/Espionage.
+
+-Justice: Affects Legitimacy and Corruption. Most Justice Policies have special effects that enable specific play styles.
+
+-Stratification: Your country's social order. Applies modifiers to Industry, Tax Revenue, and Happiness. Prone to decaying to worse options if insufficient Admin Capacity spent.
+
+-Healthcare: Affects Legitimacy, Happiness, Tax Revenue, and ability to handle disease. These policies are a strict hierarchy in which some options are outright better.
+
+-Public Works: A buffet of minor Happiness buffs that can also improve Industrial Output, Tax Revenue, and Legitimacy. You can run all of them at once if you meet requirements.
+
+-Defense: How your military is organized. Affects how you fight wars.
+
+**Colony Types**
+-Sun Colonies: Colonies built in extremely low orbit of a star. Amazing Industry, good Tax Revenue, debuffs Happiness. Cannot be built on White Dwarfs or Black Holes.
+-Void Habitats: Space habitats built in empty vacuum. No Industry, Great Tax Revenue, buffs Happiness.
+-Asteroid Belts: Mining ships and space stations. Good Industry, poor Tax Revenue.
+-Gas Giants: Living on all them moons. Decent Industry, average Tax Revenue.
+-Rocky Planets: Living on a giant ball of minerals. Good Industry, average Tax Revenue.
+-Terraformed Planets: Must be manually created from Rocky Planets that meet requirements. Average Industry, Great Tax Revenue, buffs Happiness.
+
+**Turn Order**
+Politics Phase: Change Ideology, Change Government Type, Change Policies, Resolve Random Events, Engage in Diplomacy and Espionage.
+
+Economy Phase: Found and develop your colonies, build ships (See: Ship Design Guide), recruit personnel.
+
+Fleet Movement: Move your fleets of ships around the sector to where you think they need to end up.
+
+Battle Resolution: Resolve space battles between fleets of different countries, if applicable. Large fleets are compressed for playability purposes.
+
+Ground Combat: Bombard colonies and invade them with Ground Forces.

@@ -1,0 +1,99 @@
+RevData
+
+**Test 1**
+Rules
+Die: d12
+Start DC: 4
+DC+: Max Sev +, Sev 7+
+Sev doesn't move on DC exactly
+
+Starting Severity 1
+MP Duration: 1
+Mean: 11.3
+Longest: 71
+Scramble%: 7.09%
+
+Starting Severity 2
+MP Duration: 2
+Mean: 19.2
+Longest: 111
+Scramble%: 29.9%
+
+Starting Severity 3
+MP Duration: 17
+Mean: 23.4
+Longest: 112
+Scramble%: 63.7%
+
+Starting Severity 4
+MP Duration: 16
+Mean: 24.0
+Longest: 115
+Scramble%: 88.8%
+
+Starting Severity 5
+MP Duration: 17
+Mean: 22.7
+Longest: 118
+Scramble%: 97.9%
+
+Starting Severity 6
+MP Duration: 16
+Mean: 21.0
+Longest: 86
+Scramble%: 99.9%
+
+Starting Severity 7
+MP Duration: 17
+Mean: 19.7
+Longest: 101
+Scramble%: 100%
+
+Starting Severity 8
+MP Duration: 16
+Mean: 18.8
+Longest: 91
+Scramble%: 100%
+
+Starting Severity 9
+MP Duration: 17
+Mean: 18.1
+Longest: 74
+Scramble%: 100%
+
+Starting Severity 10
+MP Duration: 18
+Mean: 18.2
+Longest: 65
+Scramble%: 100%
+
+Starting Severity 11
+MP Duration: 19
+Mean: 18.7
+Longest: 41
+Scramble%: 100%
+
+Starting Severity 12
+MP Duration: 20
+Mean: 19.4
+Longest: 31
+Scramble%: 100%
+
+Starting Severity 13
+MP Duration: 21
+Mean: 20.2
+Longest: 29
+Scramble%: 100%
+
+Starting Severity 14
+MP Duration: 22
+Mean: 21.2
+Longest: 30
+Scramble%: 100%
+
+Starting Severity 15
+MP Duration: 23
+Mean: 22.2
+Longest: 31
+Scramble%: 100%
+Notes: Excludes Evens
